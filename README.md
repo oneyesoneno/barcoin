@@ -1,5 +1,3 @@
-Barcoin For Barbarian Peoples Like Me (OYON)
-WKWKWWWKWKW
+oyoncoin
 
-
-Scrypt Hashcash PoW 
+Kloning Scrypt PoW 
